@@ -3,7 +3,7 @@
 ## Project description.
 - The website is basically a website that one can upload quotes and they can like and dislike the qoute or upvote or downvote.
 ## Author information.
- - Alex M. Barasa
+ - israel wangila
 ## Setup instructions 
  -
 ## Technology Used
@@ -20,7 +20,7 @@
 ## Contact information.
  - Email: alexbarasa0723@gmail@gmail.com.
 ## License and Copyright information.
- - MIT License Copyright (c) 2019 (Alex M. Barasa)
+ - MIT License Copyright (c) 2020 (israel wangila)
  - - [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
  
 
