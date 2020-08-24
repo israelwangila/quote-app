@@ -1,0 +1,27 @@
+body{
+    background-image: url('../assets/images/images.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#header{
+    margin-left: 35%;
+}
+.navbar-light .navbar-brand{
+    color:#fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight:bold;
+    letter-spacing: 2px;
+}
+
+.mynav text{
+    font-size: larger;
+    font-weight: 200;
+}
+.navbar-nav .nav-link{
+    margin-left: 20px;
+}
+.navbar-brand{
+    color:black;
+    text-align: center;
+}
